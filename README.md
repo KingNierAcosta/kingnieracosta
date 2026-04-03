@@ -1,13 +1,19 @@
 ## 💻 Software Developer
-I am a software developer with over 6 years of experience building modern web applications across both **front-end** and **full-stack** environments. My core expertise lies in JavaScript, TypeScript, Angular, Vue.js, and Node.js, complemented by experience with frameworks and libraries like NgRx, Redux, Vuex, and Pinia for state management.
+I am a Full Stack Software Developer with over 6 years of experience building modern web applications across both front-end and back-end environments. My core expertise lies in JavaScript and TypeScript, working with frameworks such as Angular, Vue.js, and React, along with Node.js for scalable server-side development.
 
-On the front-end, I focus on creating responsive, user-friendly interfaces, implementing components from Figma prototypes, and applying performance optimization techniques that enhance usability and loading times. On the back-end, I have hands-on experience with Express.js, REST APIs, and databases such as PostgreSQL, MySQL, and MongoDB, delivering scalable and maintainable solutions.
+On the front-end, I specialize in building responsive, high-performance user interfaces, translating Figma designs into reusable components, and optimizing application performance to enhance user experience. I have experience working with modern state management solutions including NgRx, Redux, Vuex, and Pinia.
 
-Passionate about clean code and continuous learning, I enjoy contributing to projects where I can turn complex requirements into efficient applications while staying up to date with modern development practices.
+On the back-end, I develop robust RESTful APIs using Express.js and work with databases such as PostgreSQL, MySQL, and MongoDB, ensuring scalable, maintainable, and efficient architectures.
+
+I also bring experience in automation and process optimization using Python, helping teams reduce manual work and improve operational efficiency.
+
+Passionate about clean code and continuous learning, I enjoy solving complex problems and contributing to high-impact projects while staying up to date with modern development practices.
 
 ## 🔧 Skills
 - JavaScript
 - Angular
+- VueJs
+- React
 - NodeJS
 - Express
 - TypeScript
@@ -19,3 +25,4 @@ Passionate about clean code and continuous learning, I enjoy contributing to pro
 - PostgresSQL
 - MySQL
 - Python
+- C#
